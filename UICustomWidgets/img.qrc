@@ -1,0 +1,21 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/cancel.svg</file>
+        <file>images/delete.svg</file>
+        <file>images/exit.svg</file>
+        <file>images/n_close.png</file>
+        <file>images/n_openFile.png</file>
+        <file>images/n_pause.png</file>
+        <file>images/n_play.png</file>
+        <file>images/n_return.png</file>
+        <file>images/new.svg</file>
+        <file>images/open.svg</file>
+        <file>images/pause.svg</file>
+        <file>images/preference.svg</file>
+        <file>images/start.svg</file>
+        <file>images/tabDown.png</file>
+        <file>images/tabF.png</file>
+        <file>images/tabL.png</file>
+        <file>images/cvte.png</file>
+    </qresource>
+</RCC>
